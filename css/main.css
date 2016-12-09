@@ -1,0 +1,39 @@
+*{
+	font-family: 'Courgette', cursive !important;
+	color: white;
+}
+h1{
+	font-size: 6em;
+}
+canvas{
+	background-color: rgba(0,0,0,0.2);
+}
+.back1{
+	background-image: url('relax1.jpg');
+}
+.back2{
+	background-image: url('../img/relax1.jpg');
+}
+.back3{
+	background-image: url('zen.jpg');
+}
+.back4{
+	background-image: url('zen2.jpg');
+}
+.back5{
+	background-image: url('zen3.jpg');
+}
+.back6{
+	background-image: url('zen4.jpg');
+}
+.back7{
+	background-image: url('zen5.jpg');
+}
+.tamaño{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+audio{
+	margin-top:  45px;
+}
